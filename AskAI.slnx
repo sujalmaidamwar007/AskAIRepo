@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AskAI.API/AskAI.API.csproj" />
+  <Project Path="AskAI.Application/AskAI.Application.csproj" />
+  <Project Path="AskAI.Domain/AskAI.Domain.csproj" />
+  <Project Path="AskAI.Infrastructure/AskAI.Infrastructure.csproj" />
+  <Project Path="AskAI.Tests/AskAI.Tests.csproj" />
+</Solution>
